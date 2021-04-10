@@ -3,9 +3,9 @@ import Layout from '../components/layout'
 export default function Page () {
   return (
     <Layout>
-      <h1>NextAuth.js Example</h1>
+      <h1>My trial website</h1>
       <p>
-        This is an example site to demonstrate how to use <a href={`https://next-auth.js.org`}>NextAuth.js</a> for authentication.
+        If you want to learn next.js auth go to this <a href={`https://next-auth.js.org`}>link</a> for authentication.
       </p>
     </Layout>
   )
